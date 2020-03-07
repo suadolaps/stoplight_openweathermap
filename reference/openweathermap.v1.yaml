@@ -17,7 +17,7 @@ servers:
 paths:
   /weather:
     get:
-      summary: Your GET endpoint
+      summary: GET endpoint
       tags: []
       responses:
         '200':
